@@ -1,0 +1,15 @@
+cryptography
+ackit
+Flask
+Flask_Cors
+lxml
+py2neo
+pymongo
+protobuf>=3.19.5,<3.20.1
+icetk
+cpm_kernels
+torch>=1.10
+gradio
+chardet
+icetk
+pyahocorasick
